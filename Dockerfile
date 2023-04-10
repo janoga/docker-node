@@ -1,4 +1,4 @@
-FROM node:16.13.0-alpine3.14
+FROM node:16.19.1-alpine3.17
 
 RUN apk add --no-cache --upgrade bash
 
